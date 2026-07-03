@@ -6,6 +6,7 @@
     <description>Obras de Zoltan Kodaly</description>
     <language>es</language>
     <itunes:author>Radio Beethoven</itunes:author>
+    
     <item>
       <title>Kodaly 1</title>
       <itunes:author>ZK</itunes:author>
@@ -20,6 +21,7 @@ György Sándor</description>
       <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1560944/bUSy8S.mp3" length="78036785" type="audio/mpeg"/>
       <pubDate>Thu, 02 Jul 2026 16:24:00 -0300</pubDate>
     </item>
+    
     <item>
       <title>Kodaly 2</title>
       <itunes:author>ZK</itunes:author>
@@ -39,5 +41,66 @@ Orquesta Cámara Orpheus
       <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1560945/bUSyAl.mp3" length="82885529" type="audio/mpeg"/>
       <pubDate>Thu, 02 Jul 2026 16:24:00 -0300</pubDate>
     </item>
+    
+    <item>
+      <title>Kodaly 3</title>
+      <itunes:author>ZK</itunes:author>
+      <description>Cuarteto N°2 Op.10 (1916-18)
+Cuarteto Dante
+
+Psalmus Hungaricus Op.13 (1923)
+Lajos Kozma, Coros y Sinfónica Londres / István Kertész
+
+Suite Hary Janos (1926-7)
+Sinfónica Londres / István Kertész
+
+Tarde de Verano (1906/1930)
+Orquesta Cámara Orpheus
+
+</description>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1560946/bUSyBz.mp3" length="82885529" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Jul 2026 16:24:00 -0300</pubDate>
+    </item>
+    
+    <item>
+      <title>Kodaly 4</title>
+      <itunes:author>ZK</itunes:author>
+      <description>Danzas de Marosszek (1927-29)
+Orquesta Filadelfia / Eugene Ormandy
+
+Danzas de Galanta (1933)
+Orquesta Filadelfia / Eugene Ormandy
+
+Variaciones sobre El pavo real (1937-39)
+Sinfónica Londres / István Kertész
+
+Missa Brevis (1942-44)
+Solistas, Coro Festival Brighton / László Heltay
+
+</description>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1560947/bUSyCE.mp3" length="82885529" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Jul 2026 16:24:00 -0300</pubDate>
+    </item>
+    
+    <item>
+      <title>Kodaly 5</title>
+      <itunes:author>ZK</itunes:author>
+      <description>Concierto para orquesta (1939-40)
+Orquesta Filadelfia / Eugene Ormandy
+
+Himno de Zrinyi (1954)
+Benjamin Luxon, Coro Festival Brighton / László Heltay
+
+Sinfonía en do mayor (1961)
+Philharmonia Hungarica / Antal Dorati
+
+Laudes organi (1966)
+Coro Festival Brighton, Gillian Weir / László Heltay
+
+</description>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1560949/bUSyDN.mp3" length="82885529" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Jul 2026 16:24:00 -0300</pubDate>
+    </item>
+     
   </channel>
 </rss>
