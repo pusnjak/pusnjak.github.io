@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://itunes.com" version="2.0">
+  <channel>
+    <title>Archivo Maestro</title>
+    <link>https://www.beethovenfm.cl</link>
+    <description>Obras de Zoltan Kodaly</description>
+    <language>es</language>
+    <itunes:author>Radio Beethoven</itunes:author>
+    <item>
+      <title>Kodaly 1</title>
+      <itunes:author>ZK</itunes:author>
+      <description>Cuarteto N°1 Op.2 (1908-9)
+Cuarteto Dante
+
+Nueve Piezas Op.3 (1909)
+György Sándor
+
+Siete Piezas Op.11 (1910-18)
+György Sándor</description>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1560944/bUSy8S.mp3" length="78036785" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Jul 2026 16:24:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Kodaly 2</title>
+      <itunes:author>ZK</itunes:author>
+      <description>Sonata para cello y piano Op.4 (1909-10)
+Marc Coppey, Matan Porat
+
+Dúo para violín y cello Op.7 (1914)
+Barnabás Kelemen, Marc Coppey
+
+Sonata para cello Op.8 (1915)
+Marc Coppey
+
+Rondó Húngaro (1917)
+Orquesta Cámara Orpheus
+
+</description>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1560945/bUSyAl.mp3" length="82885529" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Jul 2026 16:24:00 -0300</pubDate>
+    </item>
+  </channel>
+</rss>
