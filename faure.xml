@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Archivo Maestro: Obras de Gabriel Fauré</title>
+    <link>https://www.beethovenfm.cl/</link>
+    <description>Programas dedicados a las obras de Gabriel Fauré.</description>
+    <language>es</language>
+    <item>
+      <title>Obras de Gabriel Fauré (programa 1)</title>
+      <pubDate>Sun, 10 Nov 2024 10:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408481/bTklrp.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408481/bTklrp.mp3</guid>
+    </item>
+    <item>
+      <title>Obras de Gabriel Fauré (programa 2)</title>
+      <pubDate>Sun, 10 Nov 2024 11:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408484/bTklrp.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408484/bTklrp.mp3</guid>
+    </item>
+    <item>
+      <title>Obras de Gabriel Fauré (programa 3)</title>
+      <pubDate>Sun, 10 Nov 2024 12:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408485/bTklrp.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408485/bTklrp.mp3</guid>
+    </item>
+    <item>
+      <title>Obras de Gabriel Fauré (programa 4)</title>
+      <pubDate>Sun, 10 Nov 2024 13:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408486/bTklrp.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408486/bTklrp.mp3</guid>
+    </item>
+    <item>
+      <title>Obras de Gabriel Fauré (programa 5)</title>
+      <pubDate>Sun, 10 Nov 2024 14:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408487/bTklrp.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408487/bTklrp.mp3</guid>
+    </item>
+  </channel>
+</rss>
