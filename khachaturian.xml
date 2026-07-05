@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Archivo Maestro: Obras orquestales de Aram Khachaturian</title>
+    <link>https://www.beethovenfm.cl/</link>
+    <description>Programas dedicados a las obras orquestales de Aram Khachaturian.</description>
+    <image>
+      <url>https://www.beethovenfm.cl/htdocs/content/uploads/2026/07/khachaturian-171x260.jpg</url>
+      <title>Obras orquestales de Aram Khachaturian</title>
+      <link>https://www.beethovenfm.cl/htdocs/content/uploads/2026/07/khachaturian-171x260.jpg</link>
+    </image>    
+    <language>es</language>
+
+    <item>
+      <title>Obras orquestales de Aram Khachaturian (programa 1)</title>
+      <pubDate>Fri, 19 Jun 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1886767/bW9Q0o.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1886767/bW9Q0o.mp3</guid>
+      <description>
+Suite de Danzas (1933)
+Filarmónica Armenia / Loris Tjeknavorian
+
+Sinfonía N°1 (1934)
+Filarmónica Armenia / Loris Tjeknavorian
+
+Suite de “La batalla de Stalingrado” (1949)
+Filarmónica Armenia / Loris Tjeknavorian
+      </description>
+    </item>
+
+    <item>
+      <title>Obras orquestales de Aram Khachaturian (programa 2)</title>
+      <pubDate>Thu, 18 Jun 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1886769/bW9Q1c.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1886769/bW9Q1c.mp3</guid>
+      <description>
+Concierto para piano (1936)
+Jean-Yves Thibaudet, Filarmónica Los Ángeles / Gustavo Dudamel
+
+Concierto para violín (1940)
+Nemanja Radulovic, Filarmónica Borusan Estambul / Sascha Goetzel.
+
+Suite de “Mascarada” (1941)
+Sinfónica Londres / Loris Tjeknavorian
+      </description>
+    </item>
+
+    <item>
+      <title>Obras orquestales de Aram Khachaturian (programa 3)</title>
+      <pubDate>Wed, 17 Jun 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1886771/bW9Q2m.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1886771/bW9Q2m.mp3</guid>
+      <description>
+Suite de “Gayaneh” (1942)
+Sinfónica Bournemouth / Kirill Karabits
+
+Sinfonía N°2 “La campana” (1943)
+Filarmónica Armenia / Loris Tjeknavorian
+
+Fantasía Rusa (1944)
+Sinfónica Londres / Loris Tjeknavorian
+      </description>
+    </item>
+
+    <item>
+      <title>Obras orquestales de Aram Khachaturian (programa 4)</title>
+      <pubDate>Tue, 16 Jun 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1886773/bW9Q3k.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1886773/bW9Q3k.mp3</guid>
+      <description>
+Concierto para cello (1946)
+Alexander Chaushian, Filarmónica Armenia / Eduard Topchjan
+
+Sinfonía N°3 “Sinfonía-Poema” (1947)
+Filarmónica Armenia / Loris Tjeknavorian
+
+Suite de “La viuda valenciana” (1940)
+Filarmónica Armenia / Loris Tjeknavorian
+      </description>
+    </item>
+
+    <item>
+      <title>Obras orquestales de Aram Khachaturian (programa 5)</title>
+      <pubDate>Mon, 15 Jun 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1886786/bW9QLE.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1886786/bW9QLE.mp3</guid>
+      <description>
+Suite de “Espartaco” (1950-54)
+Sinfónica Bournemouth / Kirill Karabits
+
+Poema Festivo (1950)
+Filarmónica Armenia / Loris Tjeknavorian
+
+Rapsodia para cello (1963)
+Alexander Chaushian, Filarmónica Armenia / Eduard Topchjan
+      </description>
+    </item>
+  </channel>
+</rss>
