@@ -4,6 +4,11 @@
     <title>Archivo Maestro: Obras de Gabriel Fauré</title>
     <link>https://www.beethovenfm.cl/</link>
     <description>Programas dedicados a las obras de Gabriel Fauré.</description>
+    <image>
+      <url>https://www.beethovenfm.cl/htdocs/content/uploads/2022/05/faur%C3%A9-171x260.jpg</url>
+      <title>Obras de Zoltan Kodaly</title>
+      <link>https://www.beethovenfm.cl/htdocs/content/uploads/2022/05/faur%C3%A9-171x260.jpg</link>
+    </image>    
     <language>es</language>
     <item>
       <title>Obras de Gabriel Fauré (programa 1)</title>
@@ -103,5 +108,72 @@
         Elly Ameling, Gerard Souzay, Dalton Baldwin (14.20)
       </description>
     </item>
+    <item>
+      <title>Obras de Gabriel Fauré (programa 6)</title>
+      <pubDate>Sun, 10 Nov 2024 10:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408488/bTklrp.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408488/bTklrp.mp3</guid>
+      <description>
+      Impromptus Ops.25, 31, 34, 91 y 102 (Jean Hubeau)
+
+      Impromptu Op.86 y Une châtelaine en sa tour Op.110 (Markus Klinko)
+
+      La Chanson d’Eve Op.95 (Janet Baker, Geoffrey Parsons)
+
+      Sonata Nº2 para violín y piano Op.108 (Daishin Kashimoto, Eric Le Sage)
+      </description>
+    </item>
+    <item>
+      <title>Obras de Gabriel Fauré (programa 7)</title>
+      <pubDate>Sun, 10 Nov 2024 10:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408490/bTklrp.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408490/bTklrp.mp3</guid>
+      <description>
+      Preludios Op.103 (Jean Hubeau)
+      
+      Le Jardin Clos Op.106 (Elly Ameling, Dalton Baldwin)
+      
+      Sonata Nº1 para cello y piano Op.109 (François Salque, Eric Le Sage)
+      
+      Masques et Bergamasques Op.112 (Filarmónica BBC / Yan Pascal Tortelier)
+      
+      Mirages Op.113 (Gerard Souzay, Dalton Baldwin)
+      </description>
+    </item>
+    <item>
+      <title>Obras de Gabriel Fauré (programa 8)</title>
+      <pubDate>Sun, 10 Nov 2024 10:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408491/bTklrp.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408491/bTklrp.mp3</guid>
+      <description>
+      Sonata Nº2 para cello y piano Op.117 (François Salque, Eric Le Sage)
+      
+      L’Horizon Chimerique Op.118 (Gerard Souzay, Dalton Baldwin)
+      
+      Barcarolas Ops.26, 41, 42, 44, 66, 70, 90, 96, 101, 104, 105, 106 y 116 (Jean Hubeau)
+      </description>
+    </item>
+    <item>
+      <title>Obras de Gabriel Fauré (programa 9)</title>
+      <pubDate>Sun, 10 Nov 2024 10:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408493/bTklrp.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408493/bTklrp.mp3</guid>
+      <description>
+      Quinteto Nº2 para piano y cuerdas Op.115 (Eric Le Sage, Cuarteto Ebene)
+      
+      Trio para piano, clarinete y cello Op.120 (Eric Le Sage, Paul Meyer, François Salque)
+      
+      Cuarteto para cuerdas Op.121 (Cuarteto Ebene)
+      </description>
+    </item>
+    <item>
+      <title>Obras de Gabriel Fauré (programa 10)</title>
+      <pubDate>Sun, 10 Nov 2024 10:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408494/bTklrp.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1408494/bTklrp.mp3</guid>
+      <description>
+      Nocturnos Ops.33, 36, 37, 63, 74, 84, 97, 99, 104, 107 y 119 (Jean Hubeau)
+      </description>
+    </item>    
   </channel>
 </rss>
