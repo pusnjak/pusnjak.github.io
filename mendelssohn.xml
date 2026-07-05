@@ -5,68 +5,31 @@
     <link>https://www.beethovenfm.cl/</link>
     <description>Programas dedicados a las sinfonías, conciertos, oberturas y otras obras de Félix Mendelssohn.</description>
     <image>
-      <url>[URL_IMAGEN_PRIMER_REPRODUCTOR]</url>
+      <url>https://www.beethovenfm.cl/htdocs/content/uploads/2026/05/mendelssohn-171x260.jpg</url>
       <title>Sinfonías, conciertos, oberturas y otras obras de Félix Mendelssohn</title>
-      <link>[URL_IMAGEN_PRIMER_REPRODUCTOR]</link>
+      <link>https://www.beethovenfm.cl/htdocs/content/uploads/2026/05/mendelssohn-171x260.jpg</link>
     </image>    
     <language>es</language>
 
     <item>
-      <title>Obras orquestales de Félix Mendelssohn (programa 1)</title>
-      <pubDate>Mon, 25 May 2026 10:00:00 GMT</pubDate>
-      <enclosure url="[URL_AUDIO_PROGRAMA_1]" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">[URL_AUDIO_PROGRAMA_1]</guid>
+      <title>Obras de Félix Mendelssohn (programa 5)</title>
+      <pubDate>Fri, 29 May 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1873934/bW1834.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1873934/bW1834.mp3</guid>
       <description>
-        Concierto para violín y cuerdas en re menor
-        Isabelle van Keulen, Amsterdam Sinfonietta / Lev Markiz
+        Sinfonía N°2 en si bemol mayor Op.52 «Canto de alabanza»
+        Judith Howarth, Jennifer Larmore, Christoph Pregardien, Conjuntos Vocales Korvest de Bergen y Nacional Danés, Coro y Filarmónica de Bergen / Andrew Litton
         
-        Sinfonía N°1 en do menor Op.11
-        Filarmónica de Bergen / Andrew Litton
-        
-        Oberturas Mar calmo y viaje feliz Op.27, Las Hébridas Op.26 y La bella Melusina Op.32
-        Sinfónica Ciudad de Birmingham / Edward Gardner
-      </description>
-    </item>
-
-    <item>
-      <title>Obras de Félix Mendelssohn (programa 2)</title>
-      <pubDate>Tue, 26 May 2026 10:00:00 GMT</pubDate>
-      <enclosure url="[URL_AUDIO_PROGRAMA_2]" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">[URL_AUDIO_PROGRAMA_2]</guid>
-      <description>
-        Concierto N°1 para piano y orquesta en sol menor Op.25
+        Capricho Brillante Op.22 y Rondó Brillante Op.29
         Ronald Brautigam, Amsterdam Sinfonietta / Lev Markiz
-        
-        Sinfonía N°4 en la mayor Op.90 «Italiana»
-        Filarmónica de Bergen / Andrew Litton
-        
-        La Noche de Walpurgis Op.60
-        Birgit Remmert, Uwe Heilmann, Thomas Hampson, René Pape, Coro Arnold Schoenberg y Orquesta de Cámara de Europa / Nikolaus Harnoncourt
-      </description>
-    </item>
-
-    <item>
-      <title>Obras de Félix Mendelssohn (programa 3)</title>
-      <pubDate>Wed, 27 May 2026 10:00:00 GMT</pubDate>
-      <enclosure url="[URL_AUDIO_PROGRAMA_3]" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">[URL_AUDIO_PROGRAMA_3]</guid>
-      <description>
-        Concierto N°2 para piano y orquesta en re menor Op.40
-        Ronald Brautigam, Amsterdam Sinfonietta / Lev Markiz
-        
-        Sinfonía N°3 en la menor Op.56 «Escocesa»
-        Filarmónica de Bergen / Andrew Litton
-        
-        Concierto para violín y orquesta en mi menor Op.64
-        Isabelle van Keulen, Amsterdam Sinfonietta / Lev Markiz
       </description>
     </item>
 
     <item>
       <title>Obras de Félix Mendelssohn (programa 4)</title>
       <pubDate>Thu, 28 May 2026 10:00:00 GMT</pubDate>
-      <enclosure url="[URL_AUDIO_PROGRAMA_4]" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">[URL_AUDIO_PROGRAMA_4]</guid>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1873933/bW1834.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1873933/bW1834.mp3</guid>
       <description>
         Sinfonía N°5 en re mayor Op.107 «La Reforma»
         Filarmónica de Bergen / Andrew Litton
@@ -80,16 +43,53 @@
     </item>
 
     <item>
-      <title>Obras de Félix Mendelssohn (programa 5)</title>
-      <pubDate>Fri, 29 May 2026 10:00:00 GMT</pubDate>
-      <enclosure url="[URL_AUDIO_PROGRAMA_5]" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">[URL_AUDIO_PROGRAMA_5]</guid>
+      <title>Obras de Félix Mendelssohn (programa 3)</title>
+      <pubDate>Wed, 27 May 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1873932/bW1834.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1873932/bW1834.mp3</guid>
       <description>
-        Sinfonía N°2 en si bemol mayor Op.52 «Canto de alabanza»
-        Judith Howarth, Jennifer Larmore, Christoph Pregardien, Conjuntos Vocales Korvest de Bergen y Nacional Danés, Coro y Filarmónica de Bergen / Andrew Litton
-        
-        Capricho Brillante Op.22 y Rondó Brillante Op.29
+        Concierto N°2 para piano y orquesta en re menor Op.40
         Ronald Brautigam, Amsterdam Sinfonietta / Lev Markiz
+        
+        Sinfonía N°3 en la menor Op.56 «Escocesa»
+        Filarmónica de Bergen / Andrew Litton
+        
+        Concierto para violín y orquesta en mi menor Op.64
+        Isabelle van Keulen, Amsterdam Sinfonietta / Lev Markiz
+      </description>
+    </item>
+
+    <item>
+      <title>Obras de Félix Mendelssohn (programa 2)</title>
+      <pubDate>Tue, 26 May 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1873931/bW1834.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1873931/bW1834.mp3</guid>
+      <description>
+        Concierto N°1 para piano y orquesta en sol menor Op.25
+        Ronald Brautigam, Amsterdam Sinfonietta / Lev Markiz
+        
+        Sinfonía N°4 en la mayor Op.90 «Italiana»
+        Filarmónica de Bergen / Andrew Litton
+        
+        La Noche de Walpurgis Op.60
+        Birgit Remmert, Uwe Heilmann, Thomas Hampson, René Pape, Coro Arnold Schoenberg y Orquesta de Cámara de Europa / Nikolaus Harnoncourt
+      </description>
+    </item>
+
+    <item>
+      <title>Obras orquestales de Félix Mendelssohn (programa 1)</title>
+      <pubDate>Mon, 25 May 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1873930/bW1834.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1873930/bW1834.mp3</guid>
+      <description>
+        Concierto para violín y cuerdas en re menor
+        Isabelle van Keulen, Amsterdam Sinfonietta / Lev Markiz
+        
+        Sinfonía N°1 en do menor Op.11
+        Filarmónica de Bergen / Andrew Litton
+        
+        Oberturas Mar calmo y viaje feliz Op.27, Las Hébridas Op.26 y La bella Melusina Op.32
+        Sinfónica Ciudad de Birmingham / Edward Gardner
       </description>
     </item>
   </channel>
