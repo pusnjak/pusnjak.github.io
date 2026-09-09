@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://itunes.com" version="2.0">
+  <channel>
+    <title>Archivo Maestro</title>
+    <link>https://www.beethovenfm.cl</link>
+    <description>Neeme Järvi dirige Jean Sibelius</description>
+    <language>es</language>
+    <itunes:author>Radio Beethoven</itunes:author>
+    <image>
+      <url>https://m.media-amazon.com/images/I/61bmVPj9I8L._SL1200_.jpg</url>
+      <title>Neeme Järvi dirige Jean Sibelius</title>
+      <link>https://m.media-amazon.com/images/I/61bmVPj9I8L._SL1200_.jpg</link>
+    </image>    
+    
+    <item>
+      <title>Sibelius 1</title>
+      <itunes:author>JS</itunes:author>
+      <description>En Saga Op.9
+Suite Karelia Op.11
+Leyendas de Lemminkäinen Op.22
+Finlandia Op.26</description>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1903623/bWKRRz.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Jul 2026 16:24:00 -0300</pubDate>
+    </item>
+    
+    <item>
+      <title>Sibelius 2</title>
+      <itunes:author>JS</itunes:author>
+      <description>Sinfonía N°1 en mi menor Op.39
+Vals triste y escenas de Kuolema Op.44/62
+La hija de Pohjola Op.49 y Cabalgata Nocturna y Amanecer Op.55</description>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1903624/bWKRSv.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Jul 2026 16:24:00 -0300</pubDate>
+    </item>
+    
+    <item>
+      <title>Sibelius 3</title>
+      <itunes:author>JS</itunes:author>
+      <description>Sinfonía N°2 en re mayor Op.43
+Sinfonía N°3 en do mayor Op.52
+El Bardo Op.64</description>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1903625/bWKRTj.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Jul 2026 16:24:00 -0300</pubDate>
+    </item>
+    
+    <item>
+      <title>Sibelius 4</title>
+      <itunes:author>JS</itunes:author>
+      <description>Sinfonía N°4 en la menor Op.63
+Las Oceánidas Op.73
+Sinfonía N°5 en mi bemol mayor Op.82</description>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1903626/bWKRUc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Jul 2026 16:24:00 -0300</pubDate>
+    </item>
+    
+    <item>
+      <title>Sibelius 5</title>
+      <itunes:author>JS</itunes:author>
+      <description>Sinfonía N°6 en re menor Op.104
+Sinfonía N°7 en do mayor Op.105
+Tapiola Op.112</description>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1903630/bWKRUL.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Jul 2026 16:24:00 -0300</pubDate>
+    </item>
+     
+  </channel>
+</rss>
