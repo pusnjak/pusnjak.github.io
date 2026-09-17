@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://itunes.com" version="2.0">
+  <channel>
+    <title>Archivo Maestro</title>
+    <link>https://www.beethovenfm.cl</link>
+    <description>Obras orquestales de Joaquín Rodrigo</description>
+    <language>es</language>
+    <itunes:author>Radio Beethoven</itunes:author>
+    <image>
+      <url>https://assets.rudo.video/upload/cl/radio-beethoven/1915137/e793ed923970201f25d77e21dcbdbf54.jpg</url>
+      <title>Obras orquestales de Joaquín Rodrigo</title>
+      <link>https://assets.rudo.video/upload/cl/radio-beethoven/1915137/e793ed923970201f25d77e21dcbdbf54.jpg</link>
+    </image>    
+    
+    <item>
+      <title>Rodrigo 1</title>
+      <itunes:author>JR</itunes:author>
+      <description>Preludio para un poema a la Alhambra (1928) – Sinfónica Castilla y León / Max Bragado Darman
+Per la flor del lliri blau (1934) – Sinfónica Castilla y León / Max Bragado Darman
+Concierto Aranjuez (1939) – Ricardo Gallén, Sinfónica Asturias / Maximiano Valdés
+Concierto para piano (1942) – Daniel Ligorio Ferrandiz, Sinfónica Castilla y León / Max Bragado Darman</description>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1915136/bWS0JP.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 14 Aug 2026 16:24:00 -0300</pubDate>
+    </item>
+    
+    <item>
+      <title>Rodrigo 2</title>
+      <itunes:author>JR</itunes:author>
+      <description>Homenaje a la Tempranica (1939) – Sinfónica Castilla y León / Max Bragado Darman
+Concierto de Estío (1943) – Mikhail Ovrutsky, Sinfónica Castilla y León / Max Bragado Darman
+Concierto in Modo Galante (1949) – Asier Polo, Sinfónica Castilla y León / Max Bragado Darman
+Concierto Serenata (1952) – Gwyneth Wentink, Sinfónica Asturias / Maximiano Valdés</description>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1915137/bWS0KI.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 13 Aug 2026 16:24:00 -0300</pubDate>
+    </item>
+    
+    <item>
+      <title>Rodrigo 3</title>
+      <itunes:author>JR</itunes:author>
+      <description>Fantasía para un gentilhombre (1954) – Ricardo Gallén, Sinfónica Asturias / Maximiano Valdés
+Soleriana (1953) – Sinfónica de Asturias / Maximiano Valdés
+Música para un Jardín (1957) – Sinfónica Castilla y León / Max Bragado Darman
+Sones en la Giralda (1963) – Gwyneth Wentink, Sinfónica Asturias / Maximiano Valdés</description>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1915142/bWS0LI.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 12 Aug 2026 16:24:00 -0300</pubDate>
+    </item>
+    
+    <item>
+      <title>Rodrigo 4</title>
+      <itunes:author>JR</itunes:author>
+      <description>Concierto Madrigal (1966) – Ricardo Gallén, Joaquín Clerch, Sinfónica Asturias / Maximiano Valdés
+Concierto Andaluz (1967) – Cuarteto EntreQuatre, Sinfónica Asturias / Maximiano Valdés
+Adagio para instrumentos de viento (1966) – Sinfónica Asturias / Maximiano Valdés
+A la busca del más allá (1976) – Sinfónica Castilla y León / Max Bragado Darman</description>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1915145/bWS0MP.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Aug 2026 16:24:00 -0300</pubDate>
+    </item>
+    
+    <item>
+      <title>Rodrigo 5</title>
+      <itunes:author>JR</itunes:author>
+      <description>Concierto Pastoral (1978) – Joanna G'froerer, Sinfónica Asturias / Maximiano Valdés
+Concierto como un Divertimento (1981) – Asier Polo, Sinfónica Castilla y León / Max Bragado Darman
+Concierto para una Fiesta (1982) – Ricardo Gallén, Sinfónica Asturias / Maximiano Valdés</description>
+      <enclosure url="https://redirector.rudo.video/hls-video-vod/radio-beethoven/cl/1915146/bWS0Oq.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 10 Aug 2026 16:24:00 -0300</pubDate>
+    </item>
+     
+  </channel>
+</rss>
